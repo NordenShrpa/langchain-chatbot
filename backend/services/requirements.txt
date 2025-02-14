@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+langchain
+langchain_google_genai
+faiss-cpu
+python-dotenv
+PyMuPDF
+pymupdf
+pypdf
+unstructured

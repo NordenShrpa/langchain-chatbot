@@ -1,0 +1,11 @@
+Company Overview:
+Our company, TechSolve, specializes in AI-powered solutions. We provide data analytics, machine learning models, and automation tools.
+
+Product List:
+1. AI Chatbot - Assists customers with automated responses.
+2. Data Analyzer - Provides insights from structured and unstructured data.
+3. Task Automator - Automates business workflows efficiently.
+
+Customer Reviews:
+- "TechSolve's chatbot improved our customer support efficiency by 40%!" - John Doe
+- "The data analyzer gave us valuable insights that boosted our revenue." - Jane Smith
